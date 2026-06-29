@@ -5,6 +5,7 @@ This repository contains exemplar 'proof-of-concept' code for reconstructiing AM
 * Improve efficiency
 * Convert code to a user friendly R package
 * Make the code fit for purpose for intended user groups
-* Refine outputs, including visualisations 
+* Refine outputs, including visualisations
+* Develop documentation and tutorials
 
 
